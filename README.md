@@ -4,3 +4,4 @@ This repo contains code implementing and testing the fraction class from [chapte
 
 I've updated the README in class.  
 I've updated it again.
+Yes
